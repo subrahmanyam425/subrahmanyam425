@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Subrahmanyam Rameswarapu
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS and already learnt HTML, CSS , Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .? My personal phone number 9494241349, my gmail:subrahmanyam425@gmail.com.
 - My Earlier work: subrahmanyam425.github.io
